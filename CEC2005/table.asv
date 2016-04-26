@@ -1,0 +1,7 @@
+clc
+G(1,:)
+mean(G(1,:)),std(G(1,:))
+z = G(2,:);
+mean(z(z<3)),std(z(z<3))
+
+
