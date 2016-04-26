@@ -1,4 +1,4 @@
-# Cellular Edge Detection
+# Adaptive-Cooperative-PSO
 <p align="justify"> Matlab codes for Adaptive Cooperative Particle Swarm Optimizer (ACPSO) algorithm <a href="http://link.springer.com/article/10.1007/s10489-012-0420-6"  target="_blank">[1]</a>. </p>
 <h2><a href="http://cs.pitt.edu/~hasanzadeh/files/papers/2013-APIN-ACPSO.pdf" target="_blank">Full Text</a></h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
